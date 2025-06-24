@@ -30,4 +30,4 @@ Guide **Chinamy**, **Darsh**, or **Anshul**, our charming little birds, through 
 
 1. Clone this repo  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/The-Sonpari-Game.git
+   git clone https://github.com/darsh-shah4548/TheSonpariGame.git
