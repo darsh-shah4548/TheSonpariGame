@@ -7,4 +7,4 @@ This game, **Sonpari**, does not collect, use, store, or share any personal info
 No analytics, advertising, or third-party SDKs are integrated into the game.
 
 If you have any questions, feel free to contact the developer at:  
-**darsh9200@gmail.com**
+**glenwoodgames1@gmail.com**
